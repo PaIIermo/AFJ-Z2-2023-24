@@ -1,0 +1,13 @@
+Vašou úlohou je naprogramovať Thompsonovu konštrukciu, t.j. zostrojenie konečného automatu z 
+regulárneho výrazu. Vy máte ako vstup postupnosť operácií nad regexami a Vašou úlohou je postupne
+ zostrojiť výsledný nedeterministický konečný automat. Následne máte tento automat použiť na 
+ akceptáciu zadaných reťazcov. Teda v tomto zadaní musíte naprogramovať konečný automat a prácu
+ s ním. Teda máte programovať Thompsonovu konštrukciu "from scratch".
+
+- Taktiež musíte naprogramovať vlastnú reprezentáciu konečného automatu a prácu s ním, nie 
+preberať implementácie z iných zdrojov.
+
+- Výsledkom Thompsonovej konštrukcie je NKA. Tu si môžete vybrať, či budete akceptáciu reťazcov
+ riešiť priamo výpočtom v NKA, alebo naprogramujete aj determinizáciu na DKA a následne výpočet v DKA.
+
+Thompsonova konštrukcia tvorila náplň prednášky a cvičenia počas 3. týždňa.
